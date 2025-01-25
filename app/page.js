@@ -19,7 +19,7 @@ const products = [
   {
     title: "InboundWebhook",
     description:
-      "Connect any service that sends out a webhook to start creating and updating contacts in ClickFunnels 2.0.",
+      "Connect any service that sends out a webhook to start creating and updating contacts in ClickFunnels.",
     image: "/inboundwebhook.png",
     link: "http://inboundwebhook.com",
   },
