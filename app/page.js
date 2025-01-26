@@ -24,18 +24,18 @@ const products = [
     link: "http://inboundwebhook.com",
   },
   {
-    title: "CFAlerts",
-    description:
-      "A mobile app to make your phone go cha-ching every time you make a sale or lead in ClickFunnels.",
-    image: "/comingsoon.png",
-    link: null,
-  },
-  {
     title: "SnailTrain",
     description:
       "A Ruby on Rails 8 scaffolding generator with AI super powers. For developers who love to code.",
     image: "/snailtrain.png",
     link: "http://snailtrain.com",
+  },
+  {
+    title: "CFAlerts",
+    description:
+      "A mobile app to make your phone go cha-ching every time you make a sale or lead in ClickFunnels.",
+    image: "/comingsoon.png",
+    link: null,
   },
   {
     title: "CustomLogin",
@@ -48,6 +48,13 @@ const products = [
     title: "SpreadsheetSync",
     description:
       "Add custom abilities to ClickFunnels 2.0 + Google Spreadsheets in magical ways.",
+    image: "/comingsoon.png",
+    link: null,
+  },
+  {
+    title: "NinjaSlider",
+    description:
+      "A slider for ClickFunnels 2.0 that works with native features (no fancy code editing).",
     image: "/comingsoon.png",
     link: null,
   },
