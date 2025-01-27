@@ -30,34 +30,34 @@ const products = [
     image: "/snailtrain.png",
     link: "http://snailtrain.com",
   },
-  {
-    title: "CFAlerts",
-    description:
-      "A mobile app to make your phone go cha-ching every time you make a sale or lead in ClickFunnels.",
-    image: "/comingsoon.png",
-    link: null,
-  },
-  {
-    title: "CustomLogin",
-    description:
-      "Add custom login pages for your ClickFunnels 2.0 communities and memberships with ease.",
-    image: "/comingsoon.png",
-    link: null,
-  },
-  {
-    title: "SpreadsheetSync",
-    description:
-      "Add custom abilities to ClickFunnels 2.0 + Google Spreadsheets in magical ways.",
-    image: "/comingsoon.png",
-    link: null,
-  },
-  {
-    title: "NinjaSlider",
-    description:
-      "A slider for ClickFunnels 2.0 that works with native features (no fancy code editing).",
-    image: "/comingsoon.png",
-    link: null,
-  },
+  // {
+  //   title: "CFAlerts",
+  //   description:
+  //     "A mobile app to make your phone go cha-ching every time you make a sale or lead in ClickFunnels.",
+  //   image: "/comingsoon.png",
+  //   link: null,
+  // },
+  // {
+  //   title: "CustomLogin",
+  //   description:
+  //     "Add custom login pages for your ClickFunnels 2.0 communities and memberships with ease.",
+  //   image: "/comingsoon.png",
+  //   link: null,
+  // },
+  // {
+  //   title: "SpreadsheetSync",
+  //   description:
+  //     "Add custom abilities to ClickFunnels 2.0 + Google Spreadsheets in magical ways.",
+  //   image: "/comingsoon.png",
+  //   link: null,
+  // },
+  // {
+  //   title: "NinjaSlider",
+  //   description:
+  //     "A slider for ClickFunnels 2.0 that works with native features (no fancy code editing).",
+  //   image: "/comingsoon.png",
+  //   link: null,
+  // },
 ];
 
 export default function Home() {
